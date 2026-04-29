@@ -23,8 +23,3 @@ A modern Android Weather App built using Kotlin that provides real-time weather 
 - **Jetpack Components**
 - **Coroutines / Flow**
 
-
-n
-1. Clone the repository
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
